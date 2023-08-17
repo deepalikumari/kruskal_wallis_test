@@ -1,2 +1,2 @@
 # kruskal_wallis_test
-Complete detail on kruskal wallis test with implementation and eg.
+Comprehensive exposition of the Kruskal-Wallis test, encompassing its methodology, practical application, and exemplification, is presented in the context of soft computing.
